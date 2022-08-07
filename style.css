@@ -690,8 +690,10 @@ xclip
 	margin-bottom: 30px;
 }
 .ser-icon{
-	width: 90px;
-	height: 90px;
+    display:block;
+	width: 25%;
+    max-height: 90px;
+	height: auto;
 	text-align: center;
 	line-height: 90px;
 }
